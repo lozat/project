@@ -1,4 +1,10 @@
 # project
+  Name                     id
+Loza Teshome             DBUR 1242 /10   
+Dagmawit Ayele           DBUR/ 1161/10
+
+
+
 Answers:
 Assignment I
 QUESTION 1
@@ -42,3 +48,5 @@ Answer A, onSaveInstanceState() is called before the onStop() method.
 QUESTION 4
 
 Answer A, onPause() or onStop()
+
+
