@@ -1,0 +1,9 @@
+<resources>
+    <string name="title_twoe">HomeWorkCounter</string>
+    <string name="title_my_activity" />
+    <string name="_0">0</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="count">COUNT</string>
+    <string name="Edit_txt">hint</string>
+
+</resources>

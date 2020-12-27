@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".COUnterHomeWORK">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="26dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="80dp"
+        android:text="0"
+        android:textColor="#388E3C"
+        android:textSize="70sp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="10dp"
+        android:background="#388E3C"
+        android:text="COUNT "
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+    <EditText
+        android:id="@+id/inName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Edit--Text" />
+</LinearLayout>
